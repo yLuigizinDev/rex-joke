@@ -3,7 +3,7 @@ title rex joke
 color 0a
 start "" "Coisas\page.html"
 start "" "Coisas\boxes.vbs"
-start https://www.google.com/search?client=opera-gx&q=how+to+make+a+virus+with+bat+and+vbs&sourceid=opera&ie=UTF-8&oe=UTF-8
+start https://www.youtube.com/results?search_query=how+to+use+internet+explorer
 :LOL
 echo get hacked %random% %random%
 goto LOL
