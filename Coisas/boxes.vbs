@@ -1,0 +1,5 @@
+a=MsgBox("get rekt",0+18,"")
+b=MsgBox("get real",0+18,"")
+c=MsgBox("get retard",0+18,"")
+d=MsgBox("get hacked",0+18,"")
+e=MsgBox("fuck yourself",0+18,"")
